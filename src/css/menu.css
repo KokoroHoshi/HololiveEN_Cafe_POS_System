@@ -1,0 +1,15 @@
+#titleLabel{
+    -fx-font-size: 48;
+    -fx-alignment: BOTTOM_CENTER;
+    -fx-padding: 0px 0px 10px 0px;
+}
+
+#menuButtonsHBox{
+    -fx-alignment: TOP_CENTER;
+    -fx-padding: 10px 0px 0px 0px;
+    -fx-spacing: 40;
+}
+
+#menuButtonsHBox > .button{
+    -fx-font-size: 32;
+}

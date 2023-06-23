@@ -1,0 +1,56 @@
+#functionButtonsHBox{
+    -fx-padding: 5px 0px 0px 5px;
+}
+
+#backToMenuFunctionButton{
+    -fx-font-size: 10;
+}
+
+#categoriesHBox{
+    -fx-alignment: CENTER;
+    -fx-spacing: 30;
+    -fx-padding: 0px 65px 0px 0px;
+}
+
+#paymentFunctionGridPane{
+    -fx-alignment: CENTER;
+    -fx-vgap: 5px;
+    -fx-hgap: 5px;
+    -fx-padding: 5px 7px 0px 0px;
+}
+#paymentFunctionGridPane > .button{
+    -fx-font-size: 18;
+}
+
+#itemsFlowPane{
+    -fx-background-color: #ffffff;
+    -fx-vgap: 10px;
+    -fx-hgap: 10px;
+    -fx-alignment:CENTER;
+    -fx-padding: 10px 0px 10px 0px;
+}
+
+#ordersFlowPane{
+    -fx-background-color: #dffaff;
+    -fx-vgap: 10px;
+    -fx-padding: 10px 0px 10px 0px;
+}
+
+#orderButtonHBox{
+    -fx-padding: 5px 0px 0px 0px;
+    -fx-spacing: 5px;
+    -fx-alignment: CENTER;
+}
+
+#orderDecreaseButton, #orderIncreaseButton{
+    -fx-font-size: 18;
+}
+
+#checkoutButton, #cancelButton{
+    -fx-font-size: 24;
+}
+
+#buttonsHBox{
+    -fx-padding: 0px 7px 6px 0px;
+    -fx-spacing: 5px;
+}
