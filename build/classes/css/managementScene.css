@@ -1,0 +1,43 @@
+#functionButtonsVBox{
+    -fx-background-color: #dffaff;
+    -fx-alignment: CENTER;
+    -fx-spacing: 20px;
+}
+#functionButtonsVBox > .button{
+    -fx-font-size: 20;
+}
+
+#statisticsSettingHBox{
+    -fx-alignment: CENTER;
+    -fx-spacing: 20px;
+}
+#statisticsItemsVBox{
+    -fx-background-color: #ffffff;
+    -fx-spacing: 10px;
+    -fx-padding: 10px 0px 0px 10px;
+}
+#statisticsItemHBox{
+    -fx-alignment: CENTER_LEFT;
+    -fx-spacing: 10px;
+}
+#itemSaleQuantityLabel{
+    -fx-font-size: 24;
+    -fx-alignment: CENTER;
+}
+
+#staffFlowPane{
+    -fx-background-color: #ffffff;
+    -fx-vgap: 20px;
+    -fx-hgap: 30px;
+    -fx-alignment:CENTER;
+    -fx-padding: 40px 0px 40px 0px;
+}
+#staffFlowPaneVBox{
+    -fx-alignment:CENTER;
+}
+#staffFlowPaneVBox > #staffNameLabel{
+    -fx-font-size: 20;
+}
+#staffFlowPaneVBox > #staffDepartmentLabel{
+    -fx-font-size: 14;
+}
